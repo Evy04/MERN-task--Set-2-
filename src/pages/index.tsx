@@ -4,7 +4,7 @@ export default function Home() {
 
   return (
     <div className='container mx-auto py-5 my-5'>
-      <h1 className='text-4xl  font-bold p-1 sm:px-10'>INDEX ALL TASK ETHANUS MERN</h1>
+      <h1 className='text-4xl  font-bold p-1 sm:px-10'>MERN STACK TASK SET-2 INDEX</h1>
       <div className='p-2 sm:p-10'>
         <h2>Users Table</h2>
         <table>
