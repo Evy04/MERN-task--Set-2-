@@ -42,11 +42,11 @@ export default function Home() {
               <td>Task 5</td>
               <td className="text-sky-500 hover:text-red-600"><Link href="/task-5">Link</Link></td>
             </tr>
-            <tr key={"6"}>
+            {/* <tr key={"6"}>
               <td>6</td>
               <td>Task 6</td>
               <td className="text-sky-500 hover:text-red-600"><a href="https://leaveitblank.co/">Link</a></td>
-            </tr>
+            </tr> */}
 
           </tbody>
         </table>
